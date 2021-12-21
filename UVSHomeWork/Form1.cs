@@ -110,7 +110,6 @@ namespace UVSHomeWork
                 Data = RandomString()
             };
 
-            System.Diagnostics.Debug.WriteLine(model.Data); // Reikės ištrinti <<<<<------------
             return model;
         }
 
